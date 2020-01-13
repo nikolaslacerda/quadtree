@@ -1,0 +1,375 @@
+# depslib dependency file v1.0
+1463787691 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iup.h>
+	<iupgl.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<SOIL.h>
+	"quadtree.h"
+
+1459986064 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/include/iup/iup.h
+	"iupkey.h"
+	"iupdef.h"
+
+1459986064 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/include/iup/iupkey.h
+
+1459986064 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/include/iup/iupdef.h
+
+1459986064 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/include/iup/iupgl.h
+
+1463682062 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/include/SOIL.h
+
+1463686766 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/image_DXT.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/image_DXT.h
+
+1463686766 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/image_helper.h
+
+1463686765 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/original/stb_image-1.09.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1463686765 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/original/stb_image-1.16.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+
+1463686766 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/SOIL.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/SOIL.h
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1463686766 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/stbi_DDS_aug.h
+
+1463686766 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/lib/SOIL/stbi_DDS_aug_c.h
+
+1463787994 source:/home/PORTOALEGRE/10049190/Downloads/quadtree-base/quadtree.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+
+1463781436 /home/PORTOALEGRE/10049190/Downloads/quadtree-base/quadtree.h
+
+1463686766 source:/home/ellie/Downloads/quadtree-base/lib/SOIL/image_DXT.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/image_DXT.h
+
+1463686766 source:/home/ellie/Downloads/quadtree-base/lib/SOIL/image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/image_helper.h
+
+1463686766 source:/home/ellie/Downloads/quadtree-base/lib/SOIL/SOIL.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/SOIL.h
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/stb_image_aug.h
+	<stdio.h>
+
+1463686766 source:/home/ellie/Downloads/quadtree-base/lib/SOIL/stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/stbi_DDS_aug.h
+
+1463686766 /home/ellie/Downloads/quadtree-base/lib/SOIL/stbi_DDS_aug_c.h
+
+1463957887 source:/home/ellie/Downloads/quadtree-base/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iup.h>
+	<iupgl.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<SOIL.h>
+	"quadtree.h"
+
+1459986064 /home/ellie/Downloads/quadtree-base/include/iup/iup.h
+	"iupkey.h"
+	"iupdef.h"
+
+1459986064 /home/ellie/Downloads/quadtree-base/include/iup/iupkey.h
+
+1459986064 /home/ellie/Downloads/quadtree-base/include/iup/iupdef.h
+
+1459986064 /home/ellie/Downloads/quadtree-base/include/iup/iupgl.h
+
+1463682062 /home/ellie/Downloads/quadtree-base/include/SOIL.h
+
+1463957816 /home/ellie/Downloads/quadtree-base/quadtree.h
+
+1463957795 source:/home/ellie/Downloads/quadtree-base/quadtree.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+
+1557780182 source:c:\users\10049190\desktop\quadtree-base\lib\soil\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\image_dxt.h
+
+1557780182 source:c:\users\10049190\desktop\quadtree-base\lib\soil\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\image_helper.h
+
+1557780310 source:c:\users\10049190\desktop\quadtree-base\lib\soil\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\soil.h
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\stb_image_aug.h
+	<stdio.h>
+
+1557780564 source:c:\users\10049190\desktop\quadtree-base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"include/SOIL.h"
+	"quadtree.h"
+
+1557780183 c:\users\10049190\desktop\quadtree-base\include\gl\glut.h
+	"freeglut.h"
+
+1557780183 c:\users\10049190\desktop\quadtree-base\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1557780183 c:\users\10049190\desktop\quadtree-base\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557780183 c:\users\10049190\desktop\quadtree-base\include\gl\freeglut_ext.h
+
+1557780183 c:\users\10049190\desktop\quadtree-base\include\soil.h
+
+1557780181 c:\users\10049190\desktop\quadtree-base\quadtree.h
+	<stdio.h>
+
+1557780183 source:c:\users\10049190\desktop\quadtree-base\lib\soil\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\stbi_dds_aug.h
+
+1557780182 c:\users\10049190\desktop\quadtree-base\lib\soil\stbi_dds_aug_c.h
+
+1557780182 source:c:\users\10049190\desktop\quadtree-base\quadtree.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+
+1557780184 source:c:\users\nikolas\downloads\quadtree-base\lib\soil\image_dxt.c
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\image_dxt.h
+
+1557780184 source:c:\users\nikolas\downloads\quadtree-base\lib\soil\image_helper.c
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\image_helper.h
+
+1557780312 source:c:\users\nikolas\downloads\quadtree-base\lib\soil\soil.c
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\soil.h
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\stb_image_aug.h
+	<stdio.h>
+
+1557780184 source:c:\users\nikolas\downloads\quadtree-base\lib\soil\stb_image_aug.c
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\stbi_dds_aug.h
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\lib\soil\stbi_dds_aug_c.h
+
+1561944867 source:c:\users\nikolas\downloads\quadtree-base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"include/SOIL.h"
+	"quadtree.h"
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\include\gl\glut.h
+	"freeglut.h"
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\include\gl\freeglut_ext.h
+
+1557780184 c:\users\nikolas\downloads\quadtree-base\include\soil.h
+
+1557782934 c:\users\nikolas\downloads\quadtree-base\quadtree.h
+	<stdio.h>
+
+1561944921 source:c:\users\nikolas\downloads\quadtree-base\quadtree.c
+	"quadtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+
